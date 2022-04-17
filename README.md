@@ -8,7 +8,7 @@ Modify the IP and Port.
 Compress the file as `.zip`
 
 ````
-zip rshell.zip rshell
+zip rshell.zip rshell.php
 ````
 
 ## Step 3
